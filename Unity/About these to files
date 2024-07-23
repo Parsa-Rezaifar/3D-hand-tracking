@@ -1,0 +1,3 @@
+The file HandTracking.cs will detect all 21 points for each hand , then will send this 21 points from python to unity unsing c#
+
+The file lineCode.cs will connect this 21 ponits accoring to mediapipe documentations
