@@ -1,0 +1,2 @@
+We use UDP to convert hand detection data in python to a readable data for unity projects , This process is easier than others , because
+as long as the pycharm(or any IDE) is runnig the data will be sending to unity and both will work at a same time
