@@ -7,3 +7,5 @@ project and there with litte of c# , we track the movement of detectde hand and 
 The 3D environment in unity is interactive and you can move to any directions and deal with cubes
 
 You can simulate any shapes of your hand like : hand gesturs , showing hand signs , showing numbers and a lot more
+
+Note : in case of using this project , i used mediapipe library
